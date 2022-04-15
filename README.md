@@ -11,7 +11,7 @@
 ## Find me at:
 [![Twitter](https://img.shields.io/badge/@eloyecr-3D85C6?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://instagram.com/eloyecr)</br>
 [![Instagram](https://img.shields.io/badge/@eloyecr-F44336?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/eloyecr)</br>
-[![LinkedIn](https://img.shields.io/badge/@eloyecr-3D85C6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://instagram.com/eloyecr)</br>
+[![LinkedIn](https://img.shields.io/badge/@eloyecr-3D85C6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/eloyecr/)</br>
 
 
 <!---
