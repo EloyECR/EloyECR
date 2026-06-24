@@ -1,6 +1,7 @@
 # Hi, I'm Eloy 👋
 
 **Software Engineer and Full Stack Developer**
+
 Laravel · Software Engineer · Full Stack · Automation · Product Engineering
 
 I’m a software engineer and full stack developer with 8+ years of professional experience designing, building and modernizing business-critical software solutions.
