@@ -25,45 +25,13 @@ I enjoy solving business problems through software, modernizing legacy systems, 
 
 ## Selected Technologies
 
-### Backend
-
-* Laravel
-* PHP
-* Node.js
-* Python
-
-### Frontend
-
-* Vue.js
-* React
-* JavaScript
-* TypeScript
-* Alpine.js
-* Bootstrap
-* Tailwind
-
-### Databases
-
-* MySQL
-* MongoDB
-* SQL Server
-* DB2
-* DynamoDB
-
-### Cloud & Infrastructure
-
-* AWS (EC2, S3, SES, SQS, Lambda, DynamoDB)
-* Docker
-* Linux
-* SSH
-
-### Automation & AI
-
-* Cursor
-* Claude Code
-* Codex
-* GitHub Copilot
-* n8n
+| Category                   | Technology                                                            |
+| -------------------------- | --------------------------------------------------------------------- |
+| **Backend**                | Laravel, PHP, Node.js, Python                                         |
+| **Frontend**               | Vue.js, React, JavaScript, TypeScript, Alpine.js, Bootstrap, Tailwind |
+| **Databases**              | MySQL, MongoDB, SQL Server, DB2, DynamoDB                             |
+| **Cloud & Infrastructure** | AWS (EC2, S3, SES, SQS, Lambda, DynamoDB), Docker, Linux, SSH         |
+| **Automation & AI**        | Cursor, Claude Code, Codex, GitHub Copilot, n8n                       |
 
 ---
 
